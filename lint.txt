@@ -1,0 +1,21 @@
+﻿
+C:\Users\madhan\OneDrive\Desktop\const\src\components\Button.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\madhan\OneDrive\Desktop\const\src\components\Card.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\madhan\OneDrive\Desktop\const\src\pages\Build.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\madhan\OneDrive\Desktop\const\src\pages\Contact.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\madhan\OneDrive\Desktop\const\src\pages\Design.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\madhan\OneDrive\Desktop\const\src\pages\Home.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 6 problems (6 errors, 0 warnings)
+
